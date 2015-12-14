@@ -1,4 +1,4 @@
-git is free!
+git is a free software!
 git is a version control system
 add something again.
 filetest add/commit....
@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 34kfskdlk
 dddddddddddmmmmmmmmmmmmmmmmmmmm
 141414141414
+stash test!!!!!
